@@ -10,9 +10,9 @@ content: >
 image: images/skill/skill2.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: C programming
+    percent: 70
+  - title: Data science with R
+    percent: 80
+  - title: SQL
     percent: 85
