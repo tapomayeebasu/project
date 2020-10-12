@@ -4,17 +4,20 @@ topTitle: About
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Budding data scientist
 content: >
-  ### I design and build ultimate things.
+  ### I collet, analyse and interpret data.
+  
+  I love stuying complex data. I collect the data to develop hypothesis,
+  make inferences and analyse customer and market trends. It includes 
+  gathering and analysing the data using various types of analysing 
+  and reporting tools to detect pattern, trends and relationships in
+  data sets. I also try my best to create complex predictive model to
+  predict customer behaviours and identify new opportunities.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
 button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/mypic.jpg
